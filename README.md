@@ -18,7 +18,7 @@
 ---
 
 ### 🧠 About Me  
-- 🔭 Currently working as a **Software Developer Intern at HGS**  
+- 🔭 Currently Studying a Bachelor's in AI & Data Science**  
 - 🌱 Learning **Next.js**, **TypeScript**, and **Cloud Deployment**  
 - 💡 Passionate about **AI, UI/UX**, and **building full-stack solutions**  
 - 🎯 Goal: Create elegant, scalable, and intelligent applications  
