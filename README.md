@@ -1,22 +1,28 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=Hey%20👋%20I'm%20Ajit%20Tiwari&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20|%20Designer%20|%20Tech%20Enthusiast&descAlignY=60&fontSize=40" />
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Ajit+Tiwari!;Full+Stack+Developer+%7C+Designer+%7C+Tech+Enthusiast;Code.+Create.+Conquer." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header" width="100%"/>
+</p>
 
 ---
 
 <h3 align="center">💻 Full Stack Developer | 🎨 Creative Designer | 🚀 Tech Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajittiwari1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="ajittiwari1" />
+  <img src="https://komarev.com/ghpvc/?username=ajittiwari1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
 ### 🧠 About Me  
 - 🔭 Currently working as a **Software Developer Intern at HGS**  
-- 🌱 Learning **Next.js**, **TypeScript**, and **Cloud Deployments**  
-- 💡 Passionate about **AI, UI/UX, and scalable web apps**  
-- 🎯 Goal: Build sleek, user-friendly digital experiences  
-- ⚡ Fun fact: I’m also a **freelance graphic designer** (logos, posters, thumbnails, etc.)
+- 🌱 Learning **Next.js**, **TypeScript**, and **Cloud Deployment**  
+- 💡 Passionate about **AI, UI/UX**, and **building full-stack solutions**  
+- 🎯 Goal: Create elegant, scalable, and intelligent applications  
+- ⚡ Fun fact: I’m also a **freelance graphic designer** who loves branding & thumbnails  
 
 ---
 
@@ -28,27 +34,32 @@
 
 ---
 
-### 🏆 Achievements & Stats  
+### 🏆 Achievements & GitHub Stats  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajittiwari1&theme=onedark&no-frame=true&margin-w=10" alt="ajittiwari1 trophies" width="800px" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajittiwari1&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajittiwari1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="github stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajittiwari1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
+
+  <!-- Trophies (fully visible with theme) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ajittiwari1&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" width="800" alt="GitHub trophies" />
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ajittiwari1&theme=tokyonight-duo&hide_border=true" height="180" alt="GitHub streak stats" />
+  
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ajittiwari1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+  
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajittiwari1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+
 </div>
 
 ---
 
-### 🕹️ Fun GitHub Animation  
+### 🧩 Fun GitHub Animation  
 
+<!-- Works correctly (not pacman, now snake animation) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" width="800px">
-  </picture>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="800" />
 </div>
 
 ---
@@ -72,16 +83,18 @@
 ### 🎨 Design & Creativity  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ps,figma,ai,xd" height="60" alt="design tools" />
+  <img src="https://skillicons.dev/icons?i=ps,figma,ai,xd" height="60" alt="Design tools" />
 </div>
 
 ---
 
 <h3 align="center">✨ “Code. Create. Conquer.” ✨</h3>
+
 <p align="center">
-  Thanks for visiting my profile! 💙 <br>
-  Let’s connect and create something amazing together 🚀
+  💙 Thanks for visiting my profile!  
+  <br>🚀 Let’s connect and build something amazing together!
 </p>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+</p>
