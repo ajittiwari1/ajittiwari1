@@ -1,22 +1,26 @@
-<h1 align="center">Hey 👋, I'm Ajit Tiwari</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🎨 Graphic Designer | 🚀 Tech Enthusiast from India</h3>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&text=Hey%20👋%20I'm%20Ajit%20Tiwari&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Web%20Developer%20|%20Designer%20|%20Tech%20Enthusiast&descAlignY=60&fontSize=40" />
+
+---
+
+<h3 align="center">💻 Full Stack Developer | 🎨 Creative Designer | 🚀 Tech Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajittiwari1&label=Profile%20Views&color=0e75b6&style=flat" alt="ajittiwari1" />
+  <img src="https://komarev.com/ghpvc/?username=ajittiwari1&label=Profile%20Views&color=blueviolet&style=flat-square" alt="ajittiwari1" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working as a **Software Developer Intern at HGS**
-- 🌱 I’m learning **Next.js, TypeScript, and Cloud Deployment**
-- 💡 I love creating **web apps, UI/UX designs, and AI-powered tools**
-- 🎯 My goal: **Build scalable full-stack solutions and beautiful user interfaces**
-- ⚡ Fun fact: I’m also a **freelance graphic designer** — I design logos, posters, and T-shirts!
+### 🧠 About Me  
+- 🔭 Currently working as a **Software Developer Intern at HGS**  
+- 🌱 Learning **Next.js**, **TypeScript**, and **Cloud Deployments**  
+- 💡 Passionate about **AI, UI/UX, and scalable web apps**  
+- 🎯 Goal: Build sleek, user-friendly digital experiences  
+- ⚡ Fun fact: I’m also a **freelance graphic designer** (logos, posters, thumbnails, etc.)
 
 ---
 
-### 🧠 Tech Stack
+### ⚙️ Tech Stack  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,python,dotnet,tailwind,bootstrap,redux,git,github,figma,photoshop,firebase,aws,docker,tensorflow" />
@@ -24,56 +28,60 @@
 
 ---
 
-### 🏆 Achievements & Stats
+### 🏆 Achievements & Stats  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajittiwari1&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=true" alt="ajittiwari1 trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajittiwari1&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ajittiwari1&show_icons=true&theme=dracula" height="150" alt="github stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajittiwari1&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ajittiwari1&theme=onedark&no-frame=true&margin-w=10" alt="ajittiwari1 trophies" width="800px" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajittiwari1&theme=tokyonight&hide_border=true" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajittiwari1&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="github stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajittiwari1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top languages" />
 </div>
 
 ---
 
-### 🕹️ Fun GitHub Animation
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 🕹️ Fun GitHub Animation  
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg" width="800px">
+  </picture>
+</div>
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect With Me  
+
 <div align="center">
   <a href="https://linkedin.com/in/ajit-tiwari-84ab2a257" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="30" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="https://leetcode.com/tiwariajit" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&style=for-the-badge" height="30" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
   </a>
   <a href="mailto:ajittiwariwork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="30" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
 
 ---
 
-### 🎨 Design & Creativity Corner
+### 🎨 Design & Creativity  
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps,figma,ai,xd" height="60" alt="design tools" />
 </div>
 
 ---
 
+<h3 align="center">✨ “Code. Create. Conquer.” ✨</h3>
 <p align="center">
-  <b>⭐ “Code. Create. Conquer.” ⭐</b><br>
-  Thanks for visiting my profile! 😊<br>
-  <i>Let's connect and build something awesome together!</i>
+  Thanks for visiting my profile! 💙 <br>
+  Let’s connect and create something amazing together 🚀
 </p>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
