@@ -34,26 +34,6 @@
 
 ---
 
-### 🏆 Achievements & GitHub Stats  
-
-<div align="center">
-
-  <!-- Trophies (fully visible with theme) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ajittiwari1&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" width="800" alt="GitHub trophies" />
-  <br/><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ajittiwari1&theme=tokyonight-duo&hide_border=true" height="180" alt="GitHub streak stats" />
-  
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ajittiwari1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
-  
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajittiwari1&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-
-</div>
-
----
 
 ### 🧩 Fun GitHub Animation  
 
@@ -73,7 +53,7 @@
   <a href="https://leetcode.com/tiwariajit" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
   </a>
-  <a href="mailto:ajittiwariwork@gmail.com" target="_blank">
+  <a href="mailto:techy.shorts44@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </div>
